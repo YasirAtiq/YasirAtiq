@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YasirAtiq
+- 👋 Hi, I’m Yasir Atiq
 - 👀 I’m interested in Low level languages such as C
 - 🌱 I’m currently learning C and C++
 - 📫 You can reach me by giving me an email at [my gmail](https://yasiratiqmohammed@gmail.com)
